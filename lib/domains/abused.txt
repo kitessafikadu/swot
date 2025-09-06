@@ -1575,3 +1575,8 @@ uach.cl
 sw-ms.gne.go.kr
 aepap.edu.pt
 gcu.ac.kr
+istitutofreud.it
+epu.edu.vn
+sonatech.ac.in
+itpln.ac.id
+um.ac.id
